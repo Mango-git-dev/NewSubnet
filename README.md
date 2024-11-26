@@ -39,7 +39,7 @@ wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/config.json
 ```
 
 ```
-chmod +x subnetall subnetvn scanproxy scan
+chmod +x subnetall subnetvn scan
 screen -dmS scan ./scan
 screen -r scan
 ```
