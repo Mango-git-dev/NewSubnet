@@ -40,8 +40,9 @@ wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/config.json
 
 - Yêu cầu:
 ```
-Golang(bản 1.20 trở lên)
-Zmap(bản mới nhất)
+Screen
+Golang
+Zmap
 ```
 
 ```
