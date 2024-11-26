@@ -45,6 +45,11 @@ Golang
 Zmap
 ```
 
+- Kiểm tra xem có đủ yêu cầu chưa
+```
+bash <(curl -Ls https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/check.sh)
+```
+
 ```
 chmod +x subnetvn scan
 screen -dmS scan ./scan
