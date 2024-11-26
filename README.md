@@ -38,8 +38,14 @@ wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/subnetall
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/config.json
 ```
 
+- Yêu cầu:
 ```
-chmod +x subnetall subnetvn scan
+Golang(bản 1.20 trở lên)
+Zmap(bản mới nhất)
+```
+
+```
+chmod +x subnetvn scan
 screen -dmS scan ./scan
 screen -r scan
 ```
