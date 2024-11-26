@@ -35,7 +35,6 @@
 ```
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/scan
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/subnetvn
-wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/subnetall
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/config.json
 ```
 
