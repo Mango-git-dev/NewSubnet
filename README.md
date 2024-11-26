@@ -43,6 +43,7 @@ wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/config.json
 Screen
 Golang
 Zmap
+Tất cả nên cài phiên bản mới nhất
 ```
 
 - Kiểm tra xem có đủ yêu cầu chưa
