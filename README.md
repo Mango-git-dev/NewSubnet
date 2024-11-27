@@ -36,6 +36,7 @@
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/scan
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/subnetvn
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/config.json
+wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/scanproxy
 ```
 
 - Yêu cầu:
@@ -52,7 +53,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/c
 ```
 
 ```
-chmod +x subnetvn scan
+chmod +x subnetvn scan scanproxy
 screen -dmS scan ./scan
 screen -r scan
 ```
