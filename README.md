@@ -35,6 +35,7 @@
 ```
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/scan
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/subnetvn
+wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/subnetall
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/config.json
 wget https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/scanproxy
 ```
@@ -53,7 +54,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/Mango-git-dev/NewSubnet/main/c
 ```
 
 ```
-chmod +x subnetvn scan scanproxy
+chmod +x subnetvn scan scanproxy subnetall config.json
 screen -dmS scan ./scan
 screen -r scan
 ```
