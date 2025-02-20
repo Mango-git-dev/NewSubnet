@@ -1,1 +1,1 @@
-zmap -w subnetvn -p 10001 -q -B10G -i eth0 | ./scanproxy -p 10001
+zmap -w subnetvn -p 10001 -q -B10G -T5 -i eth0 | ./scanproxy -p 10001
