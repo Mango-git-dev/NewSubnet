@@ -1,5 +1,5 @@
 /*
-	(c) Yariya
+	mango
 */
 
 package main
